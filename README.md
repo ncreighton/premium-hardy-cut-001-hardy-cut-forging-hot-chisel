@@ -1,0 +1,2 @@
+# premium-hardy-cut-001-hardy-cut-forging-hot-chisel
+Stop guessing your heat and losing perfect cuts. The Hardy Cut Forging &amp; Hot Chisel Anvil Craft Lab transforms your blacksmithing workflow into a repeatable, data-driven craft — no more relying on memory or messy notebooks.  This Notion template solves the chaos of tracking multiple variables in hardy cut forging, from metal type and temperature to
